@@ -1,0 +1,413 @@
+body
+{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: all;
+}
+/*ul.navbar-nav.me-auto.mb-2.mb-lg-0
+{
+	margin-left: 45%;
+}*/
+
+.navbar .navbar-brand img
+{
+	width: 200px;
+	height: auto;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0
+{
+	margin-left: auto!important;
+}
+.navbar-light .navbar-nav .nav-link.active
+{
+	padding: 1.4em;
+}
+/*section start 1*/
+.header-section
+{
+	background-image: url("../images/banner.jpg");
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: 100% 90%;	
+}
+.header-section .header-h1
+{
+	text-align: center;
+	padding-top: 20%;
+}
+.header-section .header-h1 h1
+{
+	color: white;
+	font-size: 78px;
+}
+.header-section .header-h1 p
+{
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;	
+}
+/*section end 1*/
+/*section start 2*/
+.three-section
+{
+	background-image: url("../images/background-image.png");
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
+	background-size: 100% 140%;
+}
+.three-section .card
+{
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform: translateY(-20px);
+}
+
+.three-section .text-header h1
+{
+	color: #b31605;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 7%;
+}
+.three-section .card-body .card-title
+{
+	text-align: center;
+}
+.three-section .card-body .card-text
+{
+	text-align: center;
+	line-height: 1.1;
+	color: grey;
+
+}
+.three-section .card-body .button 
+{
+	margin-left: 37%;
+	 
+}
+.three-section .card-body .button a
+{
+		text-decoration: none;
+		color: black;
+}
+.three-section .card-body .button .fas
+{
+		margin-top: 5px;
+}
+/*section end 2*/
+/*section start 3*/
+.text-section
+{
+	padding: 8% 0%;
+}
+.text-section .txt1 p
+{
+	color: grey;
+	font-size: 12px;
+	margin-top: 10px;
+}
+.text-section .text-header h1
+{
+	color: #b31605;
+	margin-top: 10px;
+	margin-left: 10px;
+	padding-bottom: 5%;
+}
+/*section end 3*/
+/*section start 4*/
+.section-img2 
+{
+	background-image: url("../images/banner.jpg");
+	width: 100%;
+	height: 75vh;
+	background-repeat: no-repeat;
+	background-size: 100% 90%;
+
+}
+.section-img2 .form
+{
+	width: 100%;
+	height: 74vh;
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform: translate(-28px,-12px);
+	/*transform: translateY(30px);*/
+	/*transform: translateY(-20px);
+	transform: translateX(-20px);*/
+}
+.section-img2 .form .form-control
+{
+	background-color: #d9d9d9;
+}
+.section-img2 .form .form-select
+{
+	background-color: #d9d9d9;
+}
+.section-img2 .form h4
+{
+	text-align: center;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	font-weight: bold;
+	font-size: 30px;
+}
+.section-img2 .covid-heading1 h1
+{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	padding-left: 4%;
+	padding-top: 13%;
+}
+.section-img2 .covid-heading1 p
+{
+	color: white;
+	padding-top: 1%;
+	padding-left: 4%;
+	line-height: 1.1;
+}
+.section-img2 .form .text-a1
+{
+	padding-top: 4%;
+}
+.section-img2 .form .text-a1  a
+{
+	border:1px solid darkblue;
+	padding: 10px 43%;
+	background-color: darkblue;
+	color: white;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: bold;
+	border-radius: 5px;
+	opacity: 0.5;
+}
+/*section end 4*/
+/*section start 5*/
+.section-div .covid-heading
+{	
+padding-top: 5%;
+padding-bottom: 5%;	
+}
+..section-div .covid-heading h1
+{
+	font-weight: bold;
+}
+.section-div .covid-heading h2
+{
+	font-size: 40px;
+	font-weight: bold;
+	color: #b31605;
+}
+.section-div .covid-heading p
+{
+	line-height: 1.1;
+	color: #b3b3b3;
+}
+.img-three h3
+{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.img-three p
+{
+	text-align: center;
+	color: grey;
+}
+/*section end 5*/
+/*section start 6*/
+.section-image1
+{
+	background-image: url("../images/Lab section.png");
+	background-color: lightgrey;
+	width: 100%;
+	height: 50vh;
+	background-repeat: no-repeat;
+	background-size: 100% 80%;
+}
+ .section-image1 .text1 
+{
+	width: 110%;
+	height: 54vh;
+	padding-top: 20%;
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform: translate(-28px,-12px);
+
+}
+ .section-image1 .text1 h4
+{
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 13%;
+}
+.section-image1 .text1 p
+{
+	padding-top: 5%;
+	color: gray;
+	text-align: center;
+}
+.section-image1 .text1 .text-a
+{
+	padding-top: 7%;
+}
+.section-image1 .text1 .text-a a
+{
+	opacity: 0.7;
+}
+/*section end 6*/
+/*section start 7*/
+.section .covid-heading
+{
+padding-top: 5%;
+padding-bottom: 5%;	
+
+}
+.section .covid-heading h1
+{
+	font-weight: bold;
+}
+.section .covid-heading h2
+{
+	font-weight: bold;
+	color: #b31605;
+}
+.section .covid-heading p
+{
+	line-height: 1.1;
+	color: grey;
+}
+.section .section-img
+{
+	background-image: url("../images/umrah-operators-section.jpg");
+	width: 100%;
+	height: 65vh;
+	background-repeat: no-repeat;
+	background-size: 100% 90%;
+}
+.section-img .img-text1 h2
+{
+	color: white;
+	font-weight: bold;
+	padding-top: 16%;
+	padding-left: 5%;
+	font-size: 40px;
+	
+}
+.section-img .img-text1 p
+{
+	color: white;
+	padding-top: 5%;
+	padding-left: 5%;
+	line-height: 1.1;
+}
+.section-img .text
+{
+	width: 100%;
+	height: 63vh;
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform: translate(-28px,-12px);
+}
+.section-img .text h2
+{
+	padding-left: 8%;
+	padding-top: 17%;
+	font-weight: bold;	
+}
+.section-img .text p
+{
+
+	padding-top: 7%;
+	padding-left: 8%;
+	padding-right: 8%;
+	color: grey;
+	line-height: 1.1;
+}
+.section-img .text .button-div
+{
+	padding-top: 9%;
+	
+}
+.section-img .text .button-div a
+{
+	opacity: 0.7;
+}
+/*section end 7*/
+/*footer style start */
+.footer-section
+{
+	padding: 3%;
+	background: #1a1a1a;
+}
+.footer-heading1 .h3
+{
+	font-size: 22px;
+	margin-left: 27px;
+	font-weight: bold;
+	color: white;
+}
+.footer-heading2 .h3
+{
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	margin-left: 27px;
+}
+.footer-heading1 ul li
+{
+	list-style-type: none;
+	color: white;
+}
+.footer-heading2 span
+{
+	color: white;
+	font-weight: bold;
+}
+.footer-heading2 ul li
+{
+	color: white;
+	list-style-type: none;
+	font-weight: normal;
+}
+.social-foot i
+{
+	color: white;
+	padding: 8px 9px;
+	font-size: 15px;
+}
+.footer-icon-div .social-foot a 
+{
+	width: 33px;
+	height:33px;
+	border: 1px solid white;
+	border-radius: 25px;
+	display: inline-block;
+}
+.footer-icon-div
+{
+	margin-left: 27px;
+}
+.footer-logo img
+{
+	width: 55%;
+	height: auto;
+}
+
+.footer-icon-div .social-foot-logo a
+{
+	width: 43px;
+	height:33px;
+	border: 1px solid white;
+	border-radius: 2px;
+	display: inline-block;
+}
+.footer-icon-div .social-foot-logo i
+{
+	color: white;
+	padding: 8px 9px;
+	font-size: 15px;
+}
+ /*footer style end*/
