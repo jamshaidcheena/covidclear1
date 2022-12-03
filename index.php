@@ -30,6 +30,9 @@
           <a class="nav-link active" href="#">ABOUT US</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link active" href="#">ABOUT US1</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link active" href="#">CONTACT</a>
         </li>
         <li class="nav-item">
