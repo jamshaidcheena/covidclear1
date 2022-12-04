@@ -36,6 +36,9 @@
           <a class="nav-link active" href="#">CONTACT</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link active" href="#">CONTACT1</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link active" href="#">SERVICES</a>
         </li>
         <li class="nav-item dropdown">
